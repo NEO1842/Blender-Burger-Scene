@@ -1,0 +1,67 @@
+name: Bug Report / バグ報告
+description: Report a problem with the scene file / シーンファイルの問題を報告する
+title: "[BUG] "
+labels: ["bug"]
+assignees:
+  - NEO1842
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! 🍔  
+        バグを報告していただきありがとうございます！
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the Bug / バグの説明
+      description: A clear description of what the bug is. / バグの内容を明確に説明してください。
+      placeholder: "e.g. The burger material appears black when rendering... / レンダリング時にバーガーのマテリアルが黒くなる..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce / 再現手順
+      description: How can we reproduce the issue? / どうすれば再現できますか？
+      placeholder: |
+        1. Open `Burger_Scene.blend`
+        2. Press F12 to render
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior / 期待する動作
+      description: What did you expect to happen? / どのような動作を期待しましたか？
+    validations:
+      required: true
+
+  - type: input
+    id: blender_version
+    attributes:
+      label: Blender Version / Blenderバージョン
+      placeholder: "e.g. 3.6.0 / 4.1.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating System / OS
+      options:
+        - Windows
+        - macOS
+        - Linux
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / スクリーンショット
+      description: If applicable, add screenshots. / 該当する場合はスクリーンショットを追加してください。
