@@ -64,10 +64,14 @@ GitHub: [https://github.com/NEO1842/Blender-Burger-Scene](https://github.com/NEO
 
 ---
 
-<h1 align="center">🍔 Blender バーガーシーン</h1>
+<h1 align="center">🍔 Blender Burger Scene</h1>
 
 <p align="center">
----日本語---
+---日本語---　　画像をクリックするとレンダリング画像が表示されます。
+</p>
+
+<p align="center">
+<img src="Burger_Scene.png" width="600">
 </p>
 
 ---
