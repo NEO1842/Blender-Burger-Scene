@@ -22,7 +22,7 @@ Great for learning food modeling, material shading, and lighting in Blender.
 
 ## Software Requirement
 
-- Blender Version **4.x** (recommended) or 3.6 LTS
+- Blender Version **3.4** (recommended) or 3.6 LTS
 
 ---
 
@@ -31,7 +31,7 @@ Great for learning food modeling, material shading, and lighting in Blender.
 | Setting | Value |
 |---|---|
 | Engine | Cycles |
-| Sampling | 512〜1024 |
+| Sampling | 1024 |
 | Denoising | Optional |
 
 ---
@@ -88,7 +88,7 @@ Blenderでの食べ物モデリング・マテリアル・ライティングの�
 
 ## ソフトウェア要件
 
-- Blender **4.x**（推奨）または 3.6 LTS
+- Blender **3.4**（推奨）または 3.6 LTS
 
 ---
 
