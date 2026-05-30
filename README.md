@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="Burger_Scene.png" width="600">
+<img src="Blender Burger Scene/Burger Scene.png" width="600">
 </p>
 
 ---
@@ -71,7 +71,7 @@ GitHub: [https://github.com/NEO1842/Blender-Burger-Scene](https://github.com/NEO
 </p>
 
 <p align="center">
-<img src="Burger_Scene.png" width="600">
+<img src="Blender Burger Scene/Burger Scene.png" width="600">
 </p>
 
 ---
