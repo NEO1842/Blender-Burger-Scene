@@ -29,3 +29,4 @@ Denoising: Enabled
 
 ノイズ除去: 有効
 
+![Preview](Burger%20Scene.png)
